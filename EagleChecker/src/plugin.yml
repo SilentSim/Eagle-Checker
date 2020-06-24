@@ -1,0 +1,7 @@
+main: me.Simo.EagleChecker.Main
+name: EagleChecker
+version: 1.0
+author: Simo
+
+commands:
+  check:  
